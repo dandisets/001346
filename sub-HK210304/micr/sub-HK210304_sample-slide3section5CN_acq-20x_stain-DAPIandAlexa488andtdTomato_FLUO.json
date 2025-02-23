@@ -1,0 +1,18 @@
+{
+  "Manufacturer": "Olympus",
+  "ManufacturersModelName": "FV3000",
+  "InstituteionName": "UNC",
+  "PixelSize": 0.6214805694022389,
+  "PixelSizeUnits": "um",
+  "Immersion": "none",
+  "NumericalAperture": 0.8,
+  "Magnification": 20,
+  "BodyPart": "BRAIN",
+  "SampleEnvironment": "ex vivo",
+  "SampleStaining": [
+    "DAPI",
+    "Alexa488",
+    "tdTomato"
+  ],
+  "SliceThickness": 45
+}

@@ -1,0 +1,18 @@
+{
+  "Manufacturer": "Nikon",
+  "ManufacturersModelName": "Eclipse E800",
+  "InstitutionName": "UNC",
+  "PixelSize": 1.625000,
+  "PixelSizeUnits": "um",
+  "Immersion": "none",
+  "NumericalAperture": 0.2,
+  "Magnification": 4,
+  "BodyPart": "BRAIN",
+  "SampleEnvironment": "ex vivo",
+  "SampleStaining": [
+    "DAPI",
+    "Alexa488",
+    "tdTomato"
+  ],
+  "SliceThickness": 45
+}
