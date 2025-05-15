@@ -8,12 +8,22 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 8191175618
+  numberOfFiles: 508
+  numberOfSamples: 81
+  numberOfSubjects: 11
   schemaKey: AssetsSummary
-citation: 'Cortical Circuits for the integration of short-latency auditory pathways:
-  Inferior Colliculus retrograde tracing (2025). (Version draft) [Data set]. DANDI
-  Archive. https://dandiarchive.org/dandiset/001346/draft'
+  species: []
+  variableMeasured: []
+citation: 'Kato, Hiroyuki (2025) Cortical Circuits for the integration of short-latency
+  auditory pathways: Inferior Colliculus retrograde tracing (Version draft) [Data
+  set]. DANDI Archive. https://dandiarchive.org/dandiset/001346/draft'
 contributor:
 - awardNumber: 1 RF1 NS 128873-01
   name: National Institutes of Health (NIH)
@@ -25,6 +35,7 @@ contributor:
     schemaKey: Affiliation
   email: kato@email.unc.edu
   identifier: 0000-0002-5748-3221
+  includeInCitation: true
   name: Kato, Hiroyuki
   roleName:
   - dcite:ContactPerson
