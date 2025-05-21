@@ -51,6 +51,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2025-02-23T20:11:16.056892+00:00'
+datePublished: '2025-05-21T23:44:03.801754+00:00'
 description: 'Retrograde tracers were injected in different subdivisions of the mouse
   inferior colliculus.  Images were taken from the contralateral and ipsilateral cochlear
   nucleus. The experiments correspond to the data reported in manuscript PMID: 39829930.'
@@ -63,6 +64,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001346/versions/draft/assets/
 name: 'Cortical Circuits for the integration of short-latency auditory pathways: Inferior
   Colliculus retrograde tracing'
+publishedBy:
+  endDate: '2025-05-21T23:44:03.801754+00:00'
+  id: urn:uuid:1780e3b9-797a-4285-a932-19a3d54b92bd
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-05-21T23:44:03.801754+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:9da33409-c290-4928-89c1-593629f2792f
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
